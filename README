@@ -1,0 +1,4 @@
+edd-parser
+
+Trivial tool to parse the output of /sys/firmware/edd/raw_data for debugging
+legacy BIOS <-> kernel interactions.
